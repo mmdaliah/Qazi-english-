@@ -32,7 +32,7 @@
 فقط این دستور را اجرا کنید:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Zuvpn/Qazi/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mmdaliah/Qazi-english-/main/install.sh | sudo bash
 ```
 
 بعد از نصب، منوی Qazi به صورت خودکار اجرا می‌شود.
